@@ -1,0 +1,20 @@
+{
+  "name": "loopqa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Automated testing suite for a task board web application using Playwright.",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.3.0"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
